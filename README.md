@@ -1,4 +1,4 @@
-# customer_behaviour_analysis
+# customer-behaviour-analysis
 📊 Data Analyst Project
 🔍 Overview
 
